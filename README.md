@@ -122,7 +122,7 @@ bash scripts/dist_test.sh 2 --cfg_file <cfg> --ckpt <ckpt_path>
 ```
 
 ## License
-`PDV` is released under the [MIT license](LICENSE).
+`HyperMODEST` is released under the [MIT license](LICENSE).
 We use [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) in this project and it is under the Apache-2.0 License.
 
 This repository is based off [MODEST](https://github.com/YurongYou/MODEST) and it is under the MIT license.
