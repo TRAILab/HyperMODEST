@@ -1,12 +1,10 @@
 # HyperMODEST
 
-HyperMODEST is a self-supervised 3D object detection method. This repository is based off [MODEST](https://arxiv.org/pdf/2203.15882.pdf). 
-
-**HyperMODEST: Self-Supervised 3D Object Detection with Confidence Score Filtering**
-
-Jenny Xu, Steven L. Waslander
-
+**HyperMODEST: Self-Supervised 3D Object Detection with Confidence Score Filtering**\
+Jenny Xu, Steven L. Waslander\
 Submitted to the 20th Conference on Robots and Vision (CRV)
+
+This repository is based off [MODEST](https://arxiv.org/pdf/2203.15882.pdf). 
 
 ![Figure](figures/intro_nuscenes_1984.png)
 
