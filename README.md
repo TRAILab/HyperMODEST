@@ -1,8 +1,9 @@
 # HyperMODEST
 
-**HyperMODEST: Self-Supervised 3D Object Detection with Confidence Score Filtering**\
-Jenny Xu, Steven L. Waslander\
-Submitted to the 20th Conference on Robots and Vision (CRV)
+**HyperMODEST: Self-Supervised 3D Object Detection with Confidence Score Filtering** \
+Jenny Xu, Steven L. Waslander. \
+2023 20th Conference on Computer and Robot Vision (CRV), Montreal, QC, Canada, 2023.\
+[https://arxiv.org/abs/2304.14446](https://arxiv.org/abs/2304.14446)
 
 This repository is based off [MODEST](https://arxiv.org/pdf/2203.15882.pdf). 
 
